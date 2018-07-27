@@ -1,0 +1,3 @@
+# VirtualMusicSociety
+Music made from electronic sources, including midi work stations. Robot bands, etc.
+Disidence, Augment and diminish filters that write random melody code. more...
